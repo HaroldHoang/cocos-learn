@@ -1,0 +1,201 @@
+
+monter archer_2024-08-09.png
+size: 2025,1912
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan L
+  rotate: true
+  xy: 2, 1134
+  size: 346, 574
+  orig: 346, 574
+  offset: 0, 0
+  index: -1
+chan R
+  rotate: true
+  xy: 943, 1024
+  size: 346, 574
+  orig: 346, 574
+  offset: 0, 0
+  index: -1
+dan
+  rotate: true
+  xy: 2, 1564
+  size: 258, 287
+  orig: 262, 292
+  offset: 2, 2
+  index: -1
+dau
+  rotate: true
+  xy: 1402, 410
+  size: 601, 610
+  orig: 601, 610
+  offset: 0, 0
+  index: -1
+eyes_closed_l
+  rotate: true
+  xy: 2, 1888
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+eyes_closed_l2
+  rotate: true
+  xy: 73, 1870
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+eyes_closed_r
+  rotate: false
+  xy: 118, 1848
+  size: 85, 62
+  orig: 85, 62
+  offset: 0, 0
+  index: -1
+eyes_closed_r2
+  rotate: false
+  xy: 34, 1884
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+fx/P103588/321093122
+  rotate: true
+  xy: 796, 1395
+  size: 308, 340
+  orig: 308, 340
+  offset: 0, 0
+  index: -1
+fx/P103588/321093123
+  rotate: true
+  xy: 2, 770
+  size: 362, 363
+  orig: 362, 363
+  offset: 0, 0
+  index: -1
+fx/P103588/321093124
+  rotate: true
+  xy: 578, 1037
+  size: 356, 363
+  orig: 356, 363
+  offset: 0, 0
+  index: -1
+fx/P103588/321093125
+  rotate: true
+  xy: 1138, 1372
+  size: 326, 362
+  orig: 326, 362
+  offset: 0, 0
+  index: -1
+fx/P103588/321093126
+  rotate: true
+  xy: 1502, 1372
+  size: 326, 357
+  orig: 326, 357
+  offset: 0, 0
+  index: -1
+fx/P103588/321093127
+  rotate: true
+  xy: 1117, 1705
+  size: 205, 327
+  orig: 205, 327
+  offset: 0, 0
+  index: -1
+fx/P103588/321093128
+  rotate: true
+  xy: 805, 1713
+  size: 197, 310
+  orig: 197, 310
+  offset: 0, 0
+  index: -1
+fx/P103588/321093129
+  rotate: true
+  xy: 805, 1713
+  size: 197, 310
+  orig: 197, 310
+  offset: 0, 0
+  index: -1
+fx/P103588/321093130
+  rotate: true
+  xy: 493, 1730
+  size: 180, 310
+  orig: 180, 310
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 372, 1815
+  size: 95, 119
+  orig: 95, 119
+  offset: 0, 0
+  index: -1
+lower_jaw
+  rotate: false
+  xy: 941, 615
+  size: 459, 407
+  orig: 459, 407
+  offset: 0, 0
+  index: -1
+sau_sung_L
+  rotate: false
+  xy: 291, 1482
+  size: 503, 246
+  orig: 503, 246
+  offset: 0, 0
+  index: -1
+sau_sung_R
+  rotate: false
+  xy: 1446, 1700
+  size: 436, 210
+  orig: 436, 210
+  offset: 0, 0
+  index: -1
+sung L
+  rotate: false
+  xy: 367, 653
+  size: 572, 382
+  orig: 572, 390
+  offset: 0, 8
+  index: -1
+sung R
+  rotate: false
+  xy: 1519, 1013
+  size: 504, 357
+  orig: 504, 357
+  offset: 0, 0
+  index: -1
+tay L
+  rotate: true
+  xy: 2, 2
+  size: 649, 866
+  orig: 649, 866
+  offset: 0, 0
+  index: -1
+tooth
+  rotate: true
+  xy: 205, 1824
+  size: 86, 165
+  orig: 86, 165
+  offset: 0, 0
+  index: -1
+
+monter archer_2024-08-092.png
+size: 1552,1526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tay R
+  rotate: false
+  xy: 901, 658
+  size: 649, 866
+  orig: 649, 866
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 2
+  size: 1522, 897
+  orig: 1522, 897
+  offset: 0, 0
+  index: -1
